@@ -1,0 +1,40 @@
+{
+	"code":0,
+	"data":{
+		"list":[
+		{
+			"index":1,
+			"status":4,
+			"no":"BH0038",
+			"name":"沧州市办公用品采购项目",
+			"paymentType":1,
+			"contractType":2,
+			"updateTime":"2020-05-30 14:05:44",
+			"amount":"170,000,000",
+			"adminName":"顾娟"
+		},
+		{
+			"index":2,
+			"status":2,
+			"no":"BH0081",
+			"name":"红河哈尼族彝族自治州办公用品采购项目",
+			"paymentType":0,
+			"contractType":0,
+			"updateTime":"2020-05-30 22:59:10",
+			"amount":"267,000,000",
+			"adminName":"薛强"
+		},
+		{
+			"index":3,
+			"status":1,
+			"no":"BH0022",
+			"name":"铜川市办公用品采购项目",
+			"paymentType":1,
+			"contractType":1,
+			"updateTime":"2020-05-30 06:29:24",
+			"amount":"380,000,000",
+			"adminName":"陈平"
+		}
+		]
+	}
+}

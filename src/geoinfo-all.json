@@ -1,0 +1,29 @@
+[{
+    "citycode": "010",
+    "adcode": "110000",
+    "name": "北京市",
+    "center": "116.407394,39.904211",
+    "level": "province",
+    "districts": [{
+        "citycode": "010",
+        "adcode": "110100",
+        "name": "北京城区",
+        "center": "116.407394,39.904211",
+        "level": "city",
+        "districts": [{
+            "citycode": "010",
+            "adcode": "110101",
+            "name": "东城区",
+            "center": "116.41649,39.928341",
+            "level": "district",
+            "districts": [{
+                "citycode": "010",
+                "adcode": "110101",
+                "name": "崇文门外街道",
+                "center": "116.427389,39.894647",
+                "level": "street",
+                "districts": []
+            }]
+        }]
+    }]
+}]
