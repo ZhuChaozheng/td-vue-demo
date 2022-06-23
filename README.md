@@ -13,3 +13,6 @@ npm run serve
 cd td-vue-demo/src
 python api.py
 ```
+
+## Notice
+the src directory contain a simply data file (`geoinfo-data.json`) for test, if you prefer a complete data file, please watch the assets directory (`geoinfo-data.json`).
